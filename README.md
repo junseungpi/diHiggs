@@ -1,6 +1,6 @@
 # diHiggs
 ## Model Architecture
-### Fully Connected Layer
+### FC
 <img src = "https://user-images.githubusercontent.com/98250392/158048281-f16fa09e-bdd4-4caf-9ee6-eff8c37ed8b0.png" width="45%" height="45%">
 
 ### CNN
