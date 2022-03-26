@@ -1,4 +1,10 @@
 # diHiggs
+https://arxiv.org/abs/2203.11951
+## Abstract
+The Higgs potential is vital to understand the electroweak symmetry breaking mechanism, and probing the Higgs self-interaction is arguably one of the most important physics targets at current and upcoming collider experiments. In particular, the triple Higgs coupling may be accessible at the HL-LHC by combining results in multiple channels, which motivates to study all possible decay modes for the double Higgs production. In this paper, we revisit the double Higgs production at the HL-LHC in the final state with two $b$-tagged jets, two leptons and missing transverse momentum. 
+We focus on the performance of various neural network architectures with different input features: low-level (four momenta), high-level (kinematic variables) and image-based. 
+We find it possible to bring a modest increase in the signal sensitivity over existing results via careful optimization of machine learning algorithms making a full use of novel kinematic variables.
+
 ## Model Architecture
 ### FC
 <img src = "https://user-images.githubusercontent.com/98250392/158048281-f16fa09e-bdd4-4caf-9ee6-eff8c37ed8b0.png" width="45%" height="45%">
